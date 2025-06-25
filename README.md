@@ -21,12 +21,4 @@ $ cd my-awesome-site
 $ bundle exec jekyll serve
 # => Now browse to http://localhost:4000
 ```
-I'm doing this since **bundler** is already installed and I like step by step:
-```
-$ gem install jekyll
-$ jekyll new my-awesome-site
-$ cd my-awesome-site
-$ bundle install   → not needed since jekyll already did this
-$ jekyll serve
-# => Now browse to http://localhost:4000
-```
+**Note**: `bundle exec jekyll serve` is used instead of just `jekyll serve` to make sure the **Gemfile.lock → jekyll** version is used.
