@@ -1,7 +1,9 @@
 ---
-title: Jekyll playground
+title: Jekyll playground homepage
 layout: default
 ---
+
+# {{ page.title }}
 
 Hello world from Jekyll playground repo
 
