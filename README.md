@@ -22,3 +22,7 @@ $ bundle exec jekyll serve
 # => Now browse to http://localhost:4000
 ```
 **Note**: `bundle exec jekyll serve` is used instead of just `jekyll serve` to make sure the **Gemfile.lock → jekyll** version is used.
+
+## Themes
+
+> https://rubygems.org/ → search 'jekyll-theme'
