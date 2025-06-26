@@ -1,4 +1,4 @@
-# jekyll-walkthrough
+# jekyll-playground
 Reference repository to work and play with [Jekyll](https://jekyllrb.com/)
 
 ## References

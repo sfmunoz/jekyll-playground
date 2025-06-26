@@ -1,8 +1,8 @@
 ---
-title: Jekyll walkthrough
+title: Jekyll playground
 layout: default
 ---
 
-Hello world from Jekyll walkthrough repo
+Hello world from Jekyll playground repo
 
-[Jekyll walkthrough at GitHub](https://github.com/sfmunoz/jekyll-walkthrough)
+[Jekyll playground at GitHub](https://github.com/sfmunoz/jekyll-playground)
