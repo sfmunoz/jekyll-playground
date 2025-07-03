@@ -11,6 +11,7 @@ Reference repository to work and play with [Jekyll](https://jekyllrb.com/)
     - [_layouts/default.html](_layouts/default.html)
   - Settings → Pages → Build and deployment → Branch=main + root=/
 - [Jekyll - Static Site Generator | Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
+- Liquid: https://shopify.github.io/liquid/ → https://github.com/Shopify/liquid
 
 ## Install
 
