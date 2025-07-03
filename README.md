@@ -19,10 +19,13 @@ Quick-start directly from [Jekyll](https://jekyllrb.com/):
 $ gem install bundler jekyll
 $ jekyll new my-awesome-site
 $ cd my-awesome-site
-$ bundle exec jekyll serve
+$ bundle exec jekyll serve --livereload
 # => Now browse to http://localhost:4000
 ```
-**Note**: `bundle exec jekyll serve` is used instead of just `jekyll serve` to make sure the **Gemfile.lock → jekyll** version is used.
+Details:
+
+- `bundle exec jekyll serve` is used instead of just `jekyll serve` to make sure the **Gemfile.lock → jekyll** version is used.
+- `--livereload` is optional: it automatically refreshes the page with each change made to the source files.
 
 ## Themes
 
